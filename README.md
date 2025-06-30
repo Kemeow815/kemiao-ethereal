@@ -1,4 +1,4 @@
-# Ethereal
+# 喵落阁
 
 <div align="center"><img src="./docs/imgs/mockup.webp" alt="预览图" /></div>
 
