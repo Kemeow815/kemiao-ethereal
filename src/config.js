@@ -65,6 +65,6 @@ export default {
   errorImg: '/images/error.gif',
   // Twikoo 评论配置
   twikoo: {
-    src: '//cdn.staticfile.org/twikoo/1.6.22/twikoo.all.min.js',
+    src: '//static.314926.xyz/js/twikoo/twikoo.min.js',
   },
 }
